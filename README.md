@@ -1,6 +1,6 @@
 # NikeShoesEcommerceUIApp
 
-A small store design with React Native.
+Designing a small store with React Native
 
 **********
 
